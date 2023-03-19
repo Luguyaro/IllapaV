@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460537954122",
+    "project_id": "illapav-app",
+    "storage_bucket": "illapav-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460537954122:android:ff09742853ed6876b30bb3",
+        "android_client_info": {
+          "package_name": "com.technofaurios.illapavapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460537954122-cpau2vbn2gnq9ub4hmor6a6a7ektngbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA71UMMo9qIlOH3VtQ7OwX9nJ93yNGC3Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460537954122-cpau2vbn2gnq9ub4hmor6a6a7ektngbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
